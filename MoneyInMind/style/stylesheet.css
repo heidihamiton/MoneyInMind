@@ -1,0 +1,37 @@
+#myDIV {
+  height: auto;
+  background-repeat: no-repeat;
+  background-image: linear-gradient(to right, #FEFFD4, #D4C9FF, #E5F5FF);
+  background-blend-mode:normal;
+  padding: 50px;
+
+}
+
+#main-con {
+    background-color: #FFFFFF;
+}
+
+#search {
+    background-image: linear-gradient(to right, #D4C9FF, #E5F5FF);
+}
+
+#myDropdown {
+    text-align: center;
+}
+
+#myButton{
+    align: center;
+}
+
+p {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+}
+
